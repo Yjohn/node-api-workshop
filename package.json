@@ -1,0 +1,23 @@
+{
+  "name": "api-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yjohn/node-api-workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yjohn/node-api-workshop/issues"
+  },
+  "homepage": "https://github.com/Yjohn/node-api-workshop#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
